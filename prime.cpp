@@ -30,6 +30,7 @@ int main(){
 				break;
 		
 		if(j == size ){
+		//if you want to print all prime but it slows down the calculation 
 		//printf("%ld\n",i);
 		count++;
 		}							
